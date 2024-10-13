@@ -1,4 +1,4 @@
-# Stroke-Prediction
+# Stroke-Prediction 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1B2ageylGg7KOqaDlx0I7oB_mwf_FWBQ-?usp=drive_link)
 ## Overview
 - Stroke is the 2nd leading cause of death globally, responsible for approximately 11% of total deaths. The given dataset can be used to predict whether a patient is likely to get a stroke based on the input parameters like gender, age, bmi value, various diseases, and smoking status.
